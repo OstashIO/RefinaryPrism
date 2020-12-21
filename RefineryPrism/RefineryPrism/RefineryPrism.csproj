@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <AssemblyName>RefineryPrism</AssemblyName>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="EPPlus.Core" Version="1.5.4" />
+    <PackageReference Include="NLog" Version="4.7.6" />
+    <PackageReference Include="Prism.DryIoc" Version="8.0.0.1909" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\RefineryPrism.Core\RefineryPrism.Core.csproj" />
+    <ProjectReference Include="..\Services\RefineryPrism.Services.Interfaces\RefineryPrism.Services.Interfaces.csproj" />
+    <ProjectReference Include="..\Services\RefineryPrism.Services\RefineryPrism.Services.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="MaterialDesignThemes.Wpf">
+      <HintPath>..\..\..\..\..\..\..\Repositories\MaterialDesignInXamlToolkit-master\MaterialDesignInXamlToolkit-master\MainDemo.Wpf\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>

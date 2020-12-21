@@ -1,0 +1,9 @@
+C:\Users\Илья\source\repos\RefineryPrism\RefineryPrism\Services\RefineryPrism.Services.Interfaces\bin\Debug\netstandard2.1\RefineryPrism.Services.Interfaces.deps.json
+C:\Users\Илья\source\repos\RefineryPrism\RefineryPrism\Services\RefineryPrism.Services.Interfaces\bin\Debug\netstandard2.1\RefineryPrism.Services.Interfaces.dll
+C:\Users\Илья\source\repos\RefineryPrism\RefineryPrism\Services\RefineryPrism.Services.Interfaces\bin\Debug\netstandard2.1\RefineryPrism.Services.Interfaces.pdb
+C:\Users\Илья\source\repos\RefineryPrism\RefineryPrism\Services\RefineryPrism.Services.Interfaces\obj\Debug\netstandard2.1\RefineryPrism.Services.Interfaces.csprojAssemblyReference.cache
+C:\Users\Илья\source\repos\RefineryPrism\RefineryPrism\Services\RefineryPrism.Services.Interfaces\obj\Debug\netstandard2.1\RefineryPrism.Services.Interfaces.AssemblyInfoInputs.cache
+C:\Users\Илья\source\repos\RefineryPrism\RefineryPrism\Services\RefineryPrism.Services.Interfaces\obj\Debug\netstandard2.1\RefineryPrism.Services.Interfaces.AssemblyInfo.cs
+C:\Users\Илья\source\repos\RefineryPrism\RefineryPrism\Services\RefineryPrism.Services.Interfaces\obj\Debug\netstandard2.1\RefineryPrism.Services.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Илья\source\repos\RefineryPrism\RefineryPrism\Services\RefineryPrism.Services.Interfaces\obj\Debug\netstandard2.1\RefineryPrism.Services.Interfaces.dll
+C:\Users\Илья\source\repos\RefineryPrism\RefineryPrism\Services\RefineryPrism.Services.Interfaces\obj\Debug\netstandard2.1\RefineryPrism.Services.Interfaces.pdb

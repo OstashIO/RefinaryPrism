@@ -1,0 +1,9 @@
+C:\Users\Илья\source\repos\RefineryPrism\RefineryPrism\RefineryPrism.Core\bin\Debug\netcoreapp3.1\RefineryPrism.Core.deps.json
+C:\Users\Илья\source\repos\RefineryPrism\RefineryPrism\RefineryPrism.Core\bin\Debug\netcoreapp3.1\RefineryPrism.Core.dll
+C:\Users\Илья\source\repos\RefineryPrism\RefineryPrism\RefineryPrism.Core\bin\Debug\netcoreapp3.1\RefineryPrism.Core.pdb
+C:\Users\Илья\source\repos\RefineryPrism\RefineryPrism\RefineryPrism.Core\obj\Debug\netcoreapp3.1\RefineryPrism.Core.csprojAssemblyReference.cache
+C:\Users\Илья\source\repos\RefineryPrism\RefineryPrism\RefineryPrism.Core\obj\Debug\netcoreapp3.1\RefineryPrism.Core.AssemblyInfoInputs.cache
+C:\Users\Илья\source\repos\RefineryPrism\RefineryPrism\RefineryPrism.Core\obj\Debug\netcoreapp3.1\RefineryPrism.Core.AssemblyInfo.cs
+C:\Users\Илья\source\repos\RefineryPrism\RefineryPrism\RefineryPrism.Core\obj\Debug\netcoreapp3.1\RefineryPrism.Core.csproj.CoreCompileInputs.cache
+C:\Users\Илья\source\repos\RefineryPrism\RefineryPrism\RefineryPrism.Core\obj\Debug\netcoreapp3.1\RefineryPrism.Core.dll
+C:\Users\Илья\source\repos\RefineryPrism\RefineryPrism\RefineryPrism.Core\obj\Debug\netcoreapp3.1\RefineryPrism.Core.pdb
